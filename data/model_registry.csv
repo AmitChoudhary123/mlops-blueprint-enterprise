@@ -1,0 +1,5 @@
+model_id,accuracy,drift_index,approved,business_owner
+churn-v1,0.79,0.07,true,Customer Success
+churn-v2,0.86,0.08,true,Customer Success
+churn-v3,0.89,0.22,true,Customer Success
+churn-v4,0.87,0.05,false,Customer Success
